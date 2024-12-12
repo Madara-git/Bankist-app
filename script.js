@@ -262,8 +262,6 @@ btnTransfer.addEventListener('click', function (e) {
   }
 });
 
-const movements = [450, 200, -400, 3000, -650, -130, 70, 1300];
-
 btnClose.addEventListener('click', function (e) {
   e.preventDefault();
 
